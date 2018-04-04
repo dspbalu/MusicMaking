@@ -1,4 +1,4 @@
-# Music Making
+# MusicMaking
 
 Music Making uses Chuck language to generate music. It takes frequency as input and generates music as output.
 
