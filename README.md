@@ -19,3 +19,5 @@ Pre-Requisites:
     
 	d . To run miniAudicle, simply double-click the miniAudicle application in Finder, or open it from the Dock.
  
+
+		open the file in miniAudicle, start the virtual machine and press Add shred provided in top left corner
